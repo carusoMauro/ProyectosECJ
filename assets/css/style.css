@@ -1,5 +1,5 @@
 /* ==== Google font ==== */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600);
 
 @import url('font-awesome.css');
 /* ==== overwrite bootstrap standard ==== */
@@ -255,13 +255,13 @@ a:hover {
 	margin-bottom:40px;
 	border-radius:50%;
 }
-.services-box i.fa-rocket {
+.services-box i.fa-stopwatch {
 	background-color: #00abf0;	
 }
-.services-box i.fa-cogs {
+.services-box i.fa-pencil-ruler {
 	background-color: #02FE7C;	
 }
-.services-box i.fa-eye {
+.services-box i.fa-cart-arrow-down {
 	background-color: #0077b5;	
 }
 
